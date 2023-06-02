@@ -111,7 +111,7 @@ async def callback_query(client: Client, query: CallbackQuery):
                 InlineKeyboardButton('👨‍💻 CREATOR', url='https://t.me/my_CaptainX')
             ],
             [
-                InlineKeyboardButton('➕ YouTube channel ➕', callback_data="TUTORIAL_CALLBACK")
+                
             ]
         ]
         reply_markup = InlineKeyboardMarkup(TELETIPS_START_BUTTONS)
