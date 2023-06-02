@@ -33,7 +33,7 @@ TELETIPS_MAIN_MENU_BUTTONS = [
                 InlineKeyboardButton('👨‍💻 CREATOR', url='https://t.me/My_captainX')
             ],
             [
-                InlineKeyboardButton('➕ YouTube Video 69 ➕', callback_data="TUTORIAL_CALLBACK")
+                
             ]
         ]
 
